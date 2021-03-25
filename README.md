@@ -1,6 +1,6 @@
 ### 2021-GAIIC-Track1-idea
 
-非常荣幸能够拿到本周周星星，目前线上分数是5折nezha-base模型融合得到，采用pretrian+finetuning，具体细节如下：
+
 
 ### Pretrain
 
